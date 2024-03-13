@@ -40,7 +40,7 @@ var box9 = document.getElementById('box-9');
 
 
 // parameter
-
+/*
 function game(parameter1) {
     if (parameter1 === '1') {
         box1.innerHTML = "o"
@@ -72,6 +72,13 @@ function game(parameter1) {
 
 
 }
+*/
 
 // arguement
 // game(16)
+var fruitName = prompt ('enter fruit name')
+if (fruitName = 'banana') {
+
+} else {
+
+}
